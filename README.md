@@ -23,43 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-| [
-
-![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
-
-](https://linkedin.com/in/shwetank-aryan) | [
-
-![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)
-
-](https://www.facebook.com/shwetank.aryan.05/) | [
-
-![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)
-
-](https://instagram.com/aayan_lobo) | [
-
-![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg)
-
-](https://www.codechef.com/users/aayanlobo) | [
-
-![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)
-
-](https://www.hackerrank.com/aayanrobox02) | [
-
-![Codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)
-
-](https://codeforces.com/profile/hackaayan) | [
-
-![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)
-
-](https://www.leetcode.com/aayanlobo) | [
-
-![CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)
-
-](https://codepen.io/aayanlobo) | [
-
-![Dev.to](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)
-
-](https://dev.to/aayanlobo) |
+| <a href="https://linkedin.com/in/shwetank-aryan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a> | <a href="https://www.facebook.com/shwetank.aryan.05/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/></a> | <a href="https://instagram.com/aayan_lobo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/></a> | <a href="https://www.codechef.com/users/aayanlobo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"/></a> | <a href="https://www.hackerrank.com/aayanrobox02"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a> | <a href="https://codeforces.com/profile/hackaayan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="40"/></a> | <a href="https://www.leetcode.com/aayanlobo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a> | <a href="https://codepen.io/aayanlobo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" height="40"/></a> | <a href="https://dev.to/aayanlobo"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="40"/></a> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ---
@@ -68,138 +32,42 @@
 
 <h3 align="left">👨‍💻 Programming Languages</h3>
 
-| [
-
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-
-](https://www.cprogramming.com/) | [
-
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-
-](https://www.w3schools.com/cpp/) | [
-
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [
-
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-
-](https://www.python.org) |
+| <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a> | <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a> | <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> |
 |:-:|:-:|:-:|:-:|
 
 <h3 align="left">👨‍💻 Frontend Development</h3>
 
-| [
-
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-
-](https://getbootstrap.com) | [
-
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-
-](https://www.w3schools.com/css/) | [
-
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-
-](https://reactjs.org/) | [
-
-![Tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
-
-](https://tailwindcss.com/) | [
-
-![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)
-
-](https://vuejs.org/) |
+| <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a> | <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a> | <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a> |
 |:-:|:-:|:-:|:-:|:-:|
 
 <h3 align="left">👨‍💻 Framework</h3>
 
-| [
-
-![Django](https://cdn.worldvectorlogo.com/logos/django.svg)
-
-](https://www.djangoproject.com/) | [
-
-![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-
-](https://firebase.google.com/) |
+| <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a> | <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a> |
 |:-:|:-:|
 
 <h3 align="left">👨‍💻 Database</h3>
 
-| [
-
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-
-](https://www.mongodb.com/) | [
-
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
-](https://www.mysql.com/) |
+| <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a> |
 |:-:|:-:|
 
 <h3 align="left">👨‍💻 AI/ML</h3>
 
-| [
-
-![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
-
-](https://opencv.org/) | [
-
-![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
-
-](https://www.tensorflow.org) |
+| <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a> | <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a> |
 |:-:|:-:|
 
 <h3 align="left">👨‍💻 Softwares</h3>
 
-| [
-
-![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-
-](https://www.arduino.cc/) | [
-
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-
-](https://git-scm.com/) | [
-
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-
-](https://www.w3.org/html/) | [
-
-![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
-
-](https://www.mathworks.com/) |
+| <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a> | <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a> | <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a> |
 |:-:|:-:|:-:|:-:|
 
 <h3 align="left">👨‍💻 DevOps</h3>
 
-| [
-
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-
-](https://aws.amazon.com) | [
-
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
-
-](https://azure.microsoft.com/en-in/) | [
-
-![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
-
-](https://cloud.google.com) | [
-
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-
-](https://kubernetes.io) |
+| <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a> | <a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a> | <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a> | <a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a> |
 |:-:|:-:|:-:|:-:|
 
 <h3 align="left">👨‍💻 Terminal</h3>
 
-| [
-
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-
-](https://www.linux.org/) |
+| <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a> |
 |:-:|
 
 ---
