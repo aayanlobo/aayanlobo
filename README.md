@@ -2,7 +2,7 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-](https://www.linkedin.com/in/shwetank-aryan/)
+]
 
 <h1 align="center">Hi 👋, I'm Shwetank Aryan</h1>
 <h3 align="center">I'm a Software Engineer, passionate in building efficient & optimized Technological Solutions using high-end Technologies.</h3>
